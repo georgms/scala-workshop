@@ -1194,7 +1194,7 @@ function $c_LIntroduction$() {
   var $x_1 = $m_Ljapgolly_scalajs_react_vdom_HtmlTagOf$();
   $n($m_Ljapgolly_scalajs_react_vdom_html\uff3f$less$up$().Ljapgolly_scalajs_react_vdom_html\uff3f$less$up$__f_$less);
   $n($m_Ljapgolly_scalajs_react_vdom_Exports$().Ljapgolly_scalajs_react_vdom_Exports__f_HtmlTagOf);
-  var array$30 = [($m_Ljapgolly_scalajs_react_vdom_html\uff3f$less$up$(), $m_Ljapgolly_scalajs_react_vdom_VdomNode$(), new $c_Ljapgolly_scalajs_react_vdom_VdomNode$$anon$1("Give direct feedback, or send me a mail."))];
+  var array$30 = [($m_Ljapgolly_scalajs_react_vdom_html\uff3f$less$up$(), $m_Ljapgolly_scalajs_react_vdom_VdomNode$(), new $c_Ljapgolly_scalajs_react_vdom_VdomNode$$anon$1("Give direct feedback."))];
   var array$31 = [$n($x_1).apply$extension__T__sci_Seq__Ljapgolly_scalajs_react_vdom_TagOf("p", new $c_sjsr_WrappedVarArgs(array$30))];
   var array$32 = [$x_61, $x_55, $x_51, $x_48, $x_41, $x_28, $x_24, $x_20, $x_16, $x_13, $x_10, $x_3, $n($x_2).slide__T__sci_Seq__Ljapgolly_scalajs_react_vdom_TagOf("Feedback", new $c_sjsr_WrappedVarArgs(array$31))];
   this.LIntroduction$__f_introduction = $n($x_64).chapter__sci_Seq__Ljapgolly_scalajs_react_vdom_TagOf(new $c_sjsr_WrappedVarArgs(array$32));
